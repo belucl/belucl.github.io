@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://belucl.github.io/fWt/sitemap.fWt.gz
